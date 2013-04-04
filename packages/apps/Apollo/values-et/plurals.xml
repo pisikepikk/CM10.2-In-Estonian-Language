@@ -19,7 +19,7 @@
     <plurals name="Nartists">
 
         <!-- Only one artist -->
-        <item quantity="one">1 artist/item>
+        <item quantity="one">1 artist</item>
         <!-- More than one artist -->
         <item quantity="other"><xliff:g id="count">%d</xliff:g> artistid</item>
     </plurals>

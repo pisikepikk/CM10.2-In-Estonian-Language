@@ -1870,7 +1870,7 @@
     <string name="mod_version">CyanogenMod versioon</string>
     <string name="mod_version_default">Tundmatu</string>
     <string name="build_date">Loodud</string>
-    <string name="build_date_default">2012-01-01-0000</string1w3ede>
+    <string name="build_date_default">2012-01-01-0000</string>
     <string name="cpu_info">Protsessor</string>
     <string name="mem_info">Mälu</string>
     <string name="header_category_interface">KASUTAJALIIDES</string>

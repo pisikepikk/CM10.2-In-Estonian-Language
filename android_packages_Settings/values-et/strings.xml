@@ -764,7 +764,7 @@
     <string name="model_number" msgid="3765737700545384794">"Mudeli number"</string>
     <string name="fcc_equipment_id" msgid="149114368246356737">"Seadme ID"</string>
     <string name="baseband_version" msgid="1848990160763524801">"Põhiribaversioon"</string>
-    <string name="kernel_version" msgid="9192574954196167602">"Tuuma versioon"</string>
+    <string name="kernel_version" msgid="9192574954196167602">"Kerneli versioon"</string>
     <string name="build_number" msgid="3075795840572241758">"Järgunumber"</string>
     <string name="selinux_status" msgid="6212165375172061672">"SELinuxi olek"</string>
     <string name="device_info_not_available" msgid="8062521887156825182">"Pole saadaval"</string>

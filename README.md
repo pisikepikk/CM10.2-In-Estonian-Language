@@ -1,7 +1,7 @@
 CM10.1-In-Estonian-Language
 ===========================
 
-Estonian language translations by me for CM10.1 JB 4.2.2 (AOSP strings translations are not my trabslated but sme of them are my fixed...) ....
+Estonian language translations by me for CM10.1 JB 4.2.2 (AOSP strings translations are not my translated but some of them are my fixed...)
 Please do not add these to CM repository, not even if you edit these..
 I do my best to get my Nexus better and I don't want anybody to steal my work or something like that! :D
 

@@ -7,4 +7,4 @@ I do my best to get my Nexus better and I don't want anybody to steal my work or
 
 If you want to use these in your ROM, then feel free, also it would be great if you put credits or something like that then... :)
 
-To add custom languages to your ROM you must edit ~/build/target/product/ locales and language .mk files and there is also one another file..
+To add custom languages to your ROM you must edit ~/build/target/product/ locales and language .mk sdk.mk files, if you want you can add custom language to buildspec.mk.default file, line 78 #CUSTOM_LOCALES:=

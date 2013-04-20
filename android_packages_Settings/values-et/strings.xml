@@ -2082,7 +2082,7 @@
     <string name="picker_arrow">→</string>
     <string name="default_time">Tavaline</string>
     <string name="custom_time">kohandatud</string>
-    <string name="dialog_test">Teskst</string>
+    <string name="dialog_test">Proovi</string>
     <string name="dialog_delete_title">Kustuta</string>
     <string name="dialog_delete_message">Kustuta valitud objekt?</string>
     <string name="dialog_test_message">Sulge ekraan, et näha teade või sulge see teade testi lõpetamiseks</string>

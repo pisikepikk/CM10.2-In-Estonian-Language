@@ -41,8 +41,8 @@
 
     <plurals name="NNNtrackstoplaylist">
 
-        <item quantity="one">1 kappale lisätty soittolistalle.</item>
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> kappaletta lisätty soittolistalle.</item>
+        <item quantity="one">1 laul lisatud esitusloendisse.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> laulu lisatud esitusloendisse.</item>
     </plurals>
 
     <plurals name="NNNtrackstoqueue">

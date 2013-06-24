@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 /* //device/apps/common/assets/res/any/strings.xml
 **
 ** Copyright 2006, The Android Open Source Project
@@ -8,7 +8,7 @@
 ** you may not use this file except in compliance with the License.
 ** You may obtain a copy of the License at
 **
-**     http://www.apache.org/licenses/LICENSE-2.0
+** http://www.apache.org/licenses/LICENSE-2.0
 **
 ** Unless required by applicable law or agreed to in writing, software
 ** distributed under the License is distributed on an "AS IS" BASIS,
@@ -16,7 +16,7 @@
 ** See the License for the specific language governing permissions and
 ** limitations under the License.
 */
- -->
+-->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -843,7 +843,7 @@
     <string name="factorytest_not_system" msgid="4435201656767276723">"Toimingut FACTORY_TEST toetatakse ainult kausta \\system\\app installitud pakettide puhul."</string>
     <string name="factorytest_no_action" msgid="872991874799998561">"Ei leitud ühtegi paketti, mis võimaldaks toimingut FACTORY_TEST."</string>
     <string name="factorytest_reboot" msgid="6320168203050791643">"Taaskäivita"</string>
-    <string name="js_dialog_title" msgid="1987483977834603872">"Leht  „<xliff:g id="TITLE">%s</xliff:g>” ütleb järgmist."</string>
+    <string name="js_dialog_title" msgid="1987483977834603872">"Leht „<xliff:g id="TITLE">%s</xliff:g>” ütleb järgmist."</string>
     <string name="js_dialog_title_default" msgid="6961903213729667573">"JavaScript"</string>
     <string name="js_dialog_before_unload" msgid="730366588032430474">"Kas soovite sellelt lehelt lahkuda?"\n\n"<xliff:g id="MESSAGE">%s</xliff:g>"\n\n"Jätkamiseks puudutage valikut OK, praegusele lehele jäämiseks valikut Tühista."</string>
     <string name="save_password_label" msgid="6860261758665825069">"Kinnita"</string>
@@ -1474,8 +1474,8 @@
     <string name="global_actions_expanded_desktop_mode_on_status">Sees</string>
     <string name="global_actions_expanded_desktop_mode_off_status">Väljas</string>
     <string name="reboot_reboot">Taaskäivita</string>
-    <string name="reboot_recovery">Recovery-režiim</string>
-    <string name="reboot_bootloader">Bootloader-tila</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Bootloader</string>
     <string name="reboot_bootmenu">Käivitusmenüü</string>
     <string name="reboot_fastboot">Fastboot-režiim</string>
     <string name="reboot_download">Download-režiim</string>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  Copyright (C) 2007 The Android Open Source Project
+<!-- Copyright (C) 2007 The Android Open Source Project
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-          http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
- -->
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -90,7 +90,7 @@
     <string name="battery_info_screen_on" msgid="376277447175613889">"Ekraani sisselülitusaeg:"</string>
     <string name="battery_info_status_unknown" msgid="196130600938058547">"Tundmatu"</string>
     <string name="battery_info_status_charging" msgid="1705179948350365604">"Laadimine"</string>
-    <string name="battery_info_status_charging_ac" msgid="5874340256342956252">"(VV)"</string>
+    <string name="battery_info_status_charging_ac" msgid="5874340256342956252">"(AC)"</string>
     <string name="battery_info_status_charging_usb" msgid="4059070156126770959">"(USB)"</string>
     <string name="battery_info_status_charging_wireless" msgid="1822125795446772771">"(traadita võrk)"</string>
     <string name="battery_info_status_discharging" msgid="310932812698268588">"Ei lae"</string>
@@ -1717,7 +1717,7 @@
     <string name="data_usage_limit_editor_title" msgid="9153595142385030015">"Andmekasutuse piirangu määramine"</string>
     <string name="data_usage_limit_dialog_title" msgid="3023111643632996097">"Andmekasutuse piiramine"</string>
     <string name="data_usage_limit_dialog_mobile" product="tablet" msgid="3893348029612821262">"Määratud limiidi saavutamisel keelatakse mobiilne andmesideühendus."\n\n"Kaaluge konservatiivse limiidi kasutamist, kuna andmekasutust mõõdab teie tahvelarvuti ja teenusepakkuja võib arvestada kasutust teisiti."</string>
-    <string name="data_usage_limit_dialog_mobile" product="default" msgid="7962145861903746827">"Määratud limiidi saavutamisel keelatakse mobiilne  andmesideühendus."\n\n"Kaaluge konservatiivse limiidi kasutamist, kuna andmekasutust mõõdab teie telefon ja teenusepakkuja võib arvestada kasutust teisiti."</string>
+    <string name="data_usage_limit_dialog_mobile" product="default" msgid="7962145861903746827">"Määratud limiidi saavutamisel keelatakse mobiilne andmesideühendus."\n\n"Kaaluge konservatiivse limiidi kasutamist, kuna andmekasutust mõõdab teie telefon ja teenusepakkuja võib arvestada kasutust teisiti."</string>
     <string name="data_usage_restrict_background_title" msgid="2201315502223035062">"Kas soovite taustandmeid piirata?"</string>
     <string name="data_usage_restrict_background" msgid="6387252645350792955">"Kui piirate mobiilside taustandmed, siis WiFi-võrgu puudumisel mõned rakendused ja teenused ei tööta."</string>
     <string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"Kui piirate mobiilset taustandmevahetust, siis teatud rakendused ja teenused ei tööta, välja arvatud juhul, kui olete ühenduses WiFi-võrguga."\n\n"Seade mõjutab kõiki tahvelarvuti kasutajaid."</string>
@@ -1839,17 +1839,17 @@
     <string name="root_access_all">Rakendused ja ADB</string>
     <!-- CYANOGENMOD EDITS START -->
     <string name="ok">OK</string>
-    <string name="quiet_hours_title">Vaikus aeg</string>
+    <string name="quiet_hours_title">Vaikuse aeg</string>
     <string name="quiet_hours_summary">Vaata või vaheta aegu, mil soovite, et telefon on hääletu</string>
     <string name="quiet_hours_note_title">Märkus</string>
     <string name="quiet_hours_note_summary">Sissetulevad kõned käituvad tavaliselt vaikusest olenemata</string>
-    <string name="quiet_hours_enabled">Vaikus aeg</string>
-    <string name="quiet_hours_enabled_on">Vaikus aeg on võetud kasutusele</string>
+    <string name="quiet_hours_enabled">Vaikuse aeg</string>
+    <string name="quiet_hours_enabled_on">Vaikuse aeg on võetud kasutusele</string>
     <string name="quiet_hours_enabled_off">Teated töötavad normaalselt</string>
-    <string name="quiet_hours_start">Vaikus aja algus</string>
-    <string name="quiet_hours_start_summary">Millal vaikus aeg algab</string>
-    <string name="quiet_hours_end">Vaikus aja lõpp</string>
-    <string name="quiet_hours_end_summary">Millal vaikus aeg lõpeb</string>
+    <string name="quiet_hours_start">Vaikuse aja algus</string>
+    <string name="quiet_hours_start_summary">Millal vaikuse aeg algab</string>
+    <string name="quiet_hours_end">Vaikuse aja lõpp</string>
+    <string name="quiet_hours_end_summary">Millal vaikuse aeg lõpeb</string>
     <string name="quiet_hours_mute">Hääletut teated</string>
     <string name="quiet_hours_mute_on">Hääled väljas</string>
     <string name="quiet_hours_mute_off">Hääled kuulub tavaliselt</string>
@@ -1873,6 +1873,20 @@
     <string name="build_date_default">2012-01-01-0000</string>
     <string name="cpu_info">Protsessor</string>
     <string name="mem_info">Mälu</string>
+    <string name="anonymous_statistics_title">CyanogenMod statistikat</string>
+    <string name="anonymous_statistics_summary">Aidake teha CyanogenMod paremaks pakkudes anonüümseid statistilisi aruandeid</string>
+    <string name="anonymous_statistics_warning_title">About</string>
+    <string name="enable_reporting_title">Luba raporteerimine</string>
+    <string name="preview_data_title">Andmete eelvaatlemine</string>
+    <string name="preview_data_summary">%s</string>
+    <string name="view_stats_title">Vaata statistikaid</string>
+    <string name="anonymous_learn_more">Loe veel</string>
+    <string name="anonymous_notification_desc">Luba või Keela CyanogenModi statistikat</string>
+    <string name="preview_id_title">Ainulaadne ID</string>
+    <string name="preview_device_title">Seade</string>
+    <string name="preview_version_title">Versioon</string>
+    <string name="preview_country_title">Maakond</string>
+    <string name="preview_carrier_title">Operaator</string>
     <string name="header_category_interface">KASUTAJALIIDES</string>
     <string name="launcher_settings_title">Käivitaja</string>
     <string name="themes_settings_title">Teemad</string>
@@ -2028,7 +2042,7 @@
     <string name="icon_picker_gallery">Gallerii</string>
     <string name="icon_picker_google_small">Google (väike)</string>
     <string name="icon_picker_googleplus">Google+</string>
-    <string name="icon_picker_googletalk">Google Talk</string>
+    <string name="icon_picker_googletalk">Hangouts</string>
     <string name="icon_picker_maps">Maps</string>
     <string name="icon_picker_movie">Film</string>
     <string name="icon_picker_music">Muusika</string>
@@ -2190,6 +2204,9 @@
     <string name="power_menu_screenshot_title">Kuvatõmmis</string>
     <string name="power_menu_profiles_title">Profiilid</string>
     <string name="power_menu_expanded_desktop">Laiendatud töölaud</string>
+    <string name="expanded_desktop_disabled">Väljas</string>
+    <string name="expanded_desktop_status_bar">Olekuriba nähtav</string>
+    <string name="expanded_desktop_no_status_bar">Olekuriba peidetud</string>
     <string name="power_menu_airplane_title">Lennurežiim</string>
     <string name="power_menu_sound_title">Hääle paneel</string>
     <string name="power_menu_user_title">Kasutajad</string>
@@ -2219,7 +2236,7 @@
     <string name="status_bar_notif_count_summary">Näitab teadete arvu</string>
     <string name="display_category_wakeup_options_title">Ärkamise seaded</string>
     <string name="pref_volume_wake_title">Helitugevus nupu äratus</string>
-    <string name="pref_volume_wake_summary">Vajutage helitugevuse nuppu seade ärkab</string>
+    <string name="pref_volume_wake_summary">Vajutades helitugevuse nuppu siis seade ärkab</string>
     <string name="adb_notify">USB silumise teade</string>
     <string name="adb_notify_summary">Näita teade, kui USB silumine on sisse lülitatud</string>
     <string name="development_tools_title">Ava arendaja valikud</string>
@@ -2229,7 +2246,7 @@
     <string name="lockscreen_buttons_title">Füüsiliste nuppude ülesanded</string>
     <string name="lockscreen_buttons_summary">Vaata või muuda füüsilise nuppude ülesandeid Lukustusekraanis</string>
     <string name="lockscreen_long_press_back_title">Tagasi nupp</string>
-    <string name="lockscreen_long_press_home_title">Kodu nnupp</string>
+    <string name="lockscreen_long_press_home_title">Kodu nupp</string>
     <string name="lockscreen_long_press_menu_title">Menu nupp</string>
     <string name="lockscreen_buttons_no_action">Puudub</string>
     <string name="lockscreen_buttons_flashlight">Taskulamp</string>
@@ -2277,7 +2294,7 @@
     <string name="summary_quick_pulldown">Näita kiir-seaded tõmmates teade menüü alla ekraani %1$s küljest</string>
     <string name="quick_pulldown_summary_left">Vasakust</string>
     <string name="quick_pulldown_summary_right">Paremalt</string>
-    <string name="quick_pulldown_off">Pois käytöstä</string>
+    <string name="quick_pulldown_off">Väljas</string>
     <string name="quick_pulldown_left">Vasak</string>
     <string name="quick_pulldown_right">Parem</string>
     <string name="title_collapse_panel">Sule paneel automaatselt</string>
@@ -2294,11 +2311,13 @@
     <string name="wifi_setting_countrycode_error">Probleem määrates regioonikoodi.</string>
     <string name="accessibility_home_button_answers_call_prerefence_title">Vasta kõnele kodu nupuga</string>
     <string name="headset_category_title">Kõrvaklapid</string>
-    <string name="headset_connect_player_title">Käivita musiikki rakendus sisselülitamal Launch music app on connect</string>
+    <string name="headset_connect_player_title">Käivita muusika rakendus sisselülitamal Launch music app on connect</string>
+    <string name="navigation_bar_category">Navigatsiooniriba</string>
+    <string name="navigation_ring_title">Kiirkäivitamise otseteed</string>
     <string name="navigation_bar_title">Navigatsiooniriba</string>
     <string name="navigation_bar_help_text">1. Alustamiseks muutmise, vajutage lukku\n\n2. Paina mitä tahansa painiketta valitaksesi tai muokataksesi toimintoa\n\n3. Vajutage ükskõik millist nuppu, et valida või muuta funktsiooni\n\n5. Taastada vaikeseaded, vajutage "Reset" nuppu\n\n</string>
         <string name="navigation_bar_tips">&#8226; Ülesandeid võib määrata ainult ühele nupule korraga\n\n&#8226; Kodu nuppu ei saa muuta\n\n&#8226; Külje nupusi ei saa üle kanda</string>
-    <string name="navigation_bar_tips_title">Nipid</string>
+    <string name="navigation_bar_tips_title">Vihjed</string>
     <string name="navigation_bar_reset_message">Kustuta praegused seaded ja taastage eeldused?</string>
     <string name="navigation_bar_save_message">Navriba seaded salvestatud</string>
     <string name="navigation_bar_reset_toast">Navigatsiooniriba tagastatud, nullitud</string>
@@ -2316,5 +2335,12 @@
     <string name="stylus_icon_enabled_summary">Näita kursori ikoon liikudes pliiatsit ekraanil või monitori ülalpool</string>
     <string name="lockscreen_maximize_widgets_title">Suurenda vidinad</string>
     <string name="lockscreen_maximize_widgets_summary">Näita vidinad suurendatult ja lukustuse eemaldamine minimeeritud ekraani avamisel</string>
+    <string name="lockscreen_custom_background_title">Taust</string>
+    <string name="lockscreen_custom_background_dialog_title">Vali värv</string>
+    <string name="lockscreen_background_result_successful">Taust on edukalt muudetud</string>
+    <string name="lockscreen_background_result_not_successful">Tausta ei saa vahetada</string>
+    <string name="lockscreen_background_color_fill">Värvi täitmine</string>
+    <string name="lockscreen_background_custom_image">Custom image</string>
+    <string name="lockscreen_background_default_wallpaper">Vaikimisi taustapilt</string>
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 </resources>

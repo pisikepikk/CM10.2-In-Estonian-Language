@@ -1513,4 +1513,7 @@
     <string name="profile_none">Puudub</string>
     <string name="permlab_cancelNotifications">tühista rakenduse teatised</string>
     <string name="permdesc_cancelNotifications">Võimaldab rakendusel tühistada teiste rakenduste loodud teatised.</string>
+    <string name="global_actions_toggle_expanded_desktop_mode">Laiendatud töölaud</string>
+    <string name="global_actions_expanded_desktop_mode_on_status">Sees</string>
+    <string name="global_actions_expanded_desktop_mode_off_status">Väljas</string>
 </resources>

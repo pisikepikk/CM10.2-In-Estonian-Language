@@ -1497,6 +1497,7 @@
     <string name="app_not_found" msgid="3429141853498927379">"Selle toimingu käsitlemiseks ei leitud ühtegi rakendust"</string>
     <string name="revoke" msgid="5404479185228271586">"Tühista"</string>
     <string name="reboot_reboot">Taaskäivita</string>
+    <string name="reboot_bootmenu">Käivitusmenüü</string>
     <string name="reboot_progress">Taaskäivitamine\u2026</string>
     <string name="reboot_confirm" product="default">Teie telefon taaskäivitub.</string>
     <string name="lockscreen_discharging">tühjakslaadimine, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
